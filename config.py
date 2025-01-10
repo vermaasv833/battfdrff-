@@ -1,3 +1,3 @@
-API_ID = "your_api_id"  # Get this from https://my.telegram.org/apps
-API_HASH = "your_api_hash"
-BOT_TOKEN = "your_bot_token"
+API_ID = "26489431"  # Get this from https://my.telegram.org/apps
+API_HASH = "9a2fce85339bb79254a55368a61ab92f"
+BOT_TOKEN = "8166257595:AAGF_SIVXRmXTWeLo88H9f8bIT3HkS_cdlY"
